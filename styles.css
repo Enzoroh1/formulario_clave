@@ -1,0 +1,55 @@
+.title{
+
+    text-align: center;
+    font-size: 30px;
+    text-transform:uppercase;
+
+}
+
+.nombre{
+
+    margin-bottom: 15px;
+
+}
+
+.apellido{
+
+    margin-bottom: 15px;
+
+}
+
+.dni{
+
+    margin-bottom: 15px;
+
+}
+
+.dato{
+
+    margin-bottom: 15px;
+
+}
+
+.button{
+
+    text-align: center;
+
+}
+
+#clave {
+
+    margin-bottom: 15px;
+    background-color: green;
+    border-radius: 20px ;
+    font-size: large;
+    color: white;
+
+}
+
+
+.background {
+
+    background-color: gainsboro;
+    margin:2%
+
+}
